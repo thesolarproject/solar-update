@@ -11,6 +11,7 @@
   <release tag="v0.3" versionName="0.3" versionCode="0" nightly="false" apk="solar-v0.3.apk"/>
   <release tag="v0.2" versionName="0.2" versionCode="0" nightly="false" apk="solar-v0.2.apk"/>
   <release tag="v0.1" versionName="0.1" versionCode="0" nightly="false" apk="solar-v0.1.apk"/>
+  <release tag="nightly-20" versionName="nightly-20" versionCode="20" nightly="true" apk="solar-nightly-20.apk"/>
   <release tag="nightly-19" versionName="nightly-19" versionCode="19" nightly="true" apk="solar-nightly-19.apk"/>
   <release tag="nightly-18" versionName="nightly-18" versionCode="18" nightly="true" apk="solar-nightly-18.apk"/>
   <release tag="nightly-17" versionName="nightly-17" versionCode="17" nightly="true" apk="solar-nightly-17.apk"/>
