@@ -16,6 +16,7 @@
   <release tag="nightly-10" versionName="nightly-10" versionCode="10" nightly="true" apk="solar-nightly-10.apk"/>
   <release tag="nightly-7" versionName="nightly-7" versionCode="7" nightly="true" apk="solar-nightly-7.apk"/>
   <release tag="nightly-6" versionName="nightly-6" versionCode="6" nightly="true" apk="solar-nightly-6.apk"/>
+  <release tag="nightly-5" versionName="nightly-5" versionCode="5" nightly="true" apk="solar-nightly-5.apk"/>
   <release tag="nightly-4" versionName="nightly-4" versionCode="4" nightly="true" apk="solar-nightly-4.apk"/>
   <release tag="nightly-3" versionName="nightly-3" versionCode="3" nightly="true" apk="solar-nightly-3.apk"/>
   <release tag="nightly-2" versionName="nightly-2" versionCode="2" nightly="true" apk="solar-nightly-2.apk"/>
