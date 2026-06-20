@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <solar-updates base="https://thesolarproject.github.io/solar-update/">
+  <release tag="v1.5" versionName="1.5" versionCode="0" nightly="false" apk="solar-v1.5.apk"/>
   <release tag="v1.4" versionName="1.4" versionCode="0" nightly="false" apk="solar-v1.4.apk"/>
   <release tag="v1.3" versionName="1.3" versionCode="0" nightly="false" apk="solar-v1.3.apk"/>
   <release tag="v1.2" versionName="1.2" versionCode="0" nightly="false" apk="solar-v1.2.apk"/>
