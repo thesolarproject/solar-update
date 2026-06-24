@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <solar-updates base="https://thesolarproject.github.io/solar-update/">
-  <release tag="nightly-55" versionName="nightly-55" versionCode="55" nightly="true" apk="solar-nightly-55.apk"/>
-  <release tag="nightly-54" versionName="nightly-54" versionCode="54" nightly="true" apk="solar-nightly-54.apk"/>
-  <release tag="nightly-53" versionName="nightly-53" versionCode="53" nightly="true" apk="solar-nightly-53.apk"/>
-  <release tag="nightly-52" versionName="nightly-52" versionCode="52" nightly="true" apk="solar-nightly-52.apk"/>
-  <release tag="nightly-50" versionName="nightly-50" versionCode="50" nightly="true" apk="solar-nightly-50.apk"/>
-  <release tag="nightly-49" versionName="nightly-49" versionCode="49" nightly="true" apk="solar-nightly-49.apk"/>
-  <release tag="nightly-39" versionName="nightly-39" versionCode="39" nightly="true" apk="solar-nightly-39.apk"/>
-  <release tag="nightly-38" versionName="nightly-38" versionCode="38" nightly="true" apk="solar-nightly-38.apk"/>
-  <release tag="nightly-37" versionName="nightly-37" versionCode="37" nightly="true" apk="solar-nightly-37.apk"/>
-  <release tag="nightly-34" versionName="nightly-34" versionCode="34" nightly="true" apk="solar-nightly-34.apk"/>
-  <release tag="nightly-33" versionName="nightly-33" versionCode="33" nightly="true" apk="solar-nightly-33.apk"/>
-  <release tag="nightly-31" versionName="nightly-31" versionCode="31" nightly="true" apk="solar-nightly-31.apk"/>
+  <release tag="nightly-20260624-1224" versionName="nightly-20260624-1224" versionCode="3407784" nightly="true" apk="solar-nightly-20260624-1224.apk" variant="universal"/>
+  <release tag="nightly-55" versionName="nightly-55" versionCode="55" nightly="true" apk="solar-nightly-55.apk" variant="universal"/>
+  <release tag="nightly-54" versionName="nightly-54" versionCode="54" nightly="true" apk="solar-nightly-54.apk" variant="universal"/>
+  <release tag="nightly-53" versionName="nightly-53" versionCode="53" nightly="true" apk="solar-nightly-53.apk" variant="universal"/>
+  <release tag="nightly-52" versionName="nightly-52" versionCode="52" nightly="true" apk="solar-nightly-52.apk" variant="universal"/>
+  <release tag="nightly-50" versionName="nightly-50" versionCode="50" nightly="true" apk="solar-nightly-50.apk" variant="universal"/>
+  <release tag="nightly-49" versionName="nightly-49" versionCode="49" nightly="true" apk="solar-nightly-49.apk" variant="universal"/>
+  <release tag="nightly-39" versionName="nightly-39" versionCode="39" nightly="true" apk="solar-nightly-39.apk" variant="universal"/>
+  <release tag="nightly-38" versionName="nightly-38" versionCode="38" nightly="true" apk="solar-nightly-38.apk" variant="universal"/>
+  <release tag="nightly-37" versionName="nightly-37" versionCode="37" nightly="true" apk="solar-nightly-37.apk" variant="universal"/>
+  <release tag="nightly-34" versionName="nightly-34" versionCode="34" nightly="true" apk="solar-nightly-34.apk" variant="universal"/>
+  <release tag="nightly-33" versionName="nightly-33" versionCode="33" nightly="true" apk="solar-nightly-33.apk" variant="universal"/>
 </solar-updates>
