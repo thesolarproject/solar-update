@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <solar-updates base="https://thesolarproject.github.io/solar-update/">
+  <release tag="nightly-20260624-1751" versionName="nightly-20260624-1751" versionCode="3408111" nightly="true" apk="solar-nightly-20260624-1751.apk" variant="universal"/>
   <release tag="nightly-20260624-1727" versionName="nightly-20260624-1727" versionCode="3408087" nightly="true" apk="solar-nightly-20260624-1727.apk" variant="universal"/>
   <release tag="nightly-20260624-1659" versionName="nightly-20260624-1659" versionCode="3408059" nightly="true" apk="solar-nightly-20260624-1659.apk" variant="universal"/>
   <release tag="nightly-20260624-1505" versionName="nightly-20260624-1505" versionCode="3407945" nightly="true" apk="solar-nightly-20260624-1505.apk" variant="universal"/>
