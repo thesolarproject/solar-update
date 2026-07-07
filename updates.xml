@@ -6,6 +6,9 @@
   <release tag="v0.3" versionName="0.3" versionCode="0" nightly="false" apk="solar-v0.3.apk" variant="universal"/>
   <release tag="v0.2" versionName="0.2" versionCode="0" nightly="false" apk="solar-v0.2.apk" variant="universal"/>
   <release tag="v0.1" versionName="0.1" versionCode="0" nightly="false" apk="solar-v0.1.apk" variant="universal"/>
+  <release tag="20260705-1543" versionName="20260705-1543" versionCode="3423823" nightly="false" apk="solar-20260705-1543.apk" variant="universal"/>
+  <release tag="20260703-1128" versionName="20260703-1128" versionCode="3420688" nightly="false" apk="solar-20260703-1128.apk" variant="universal"/>
+  <release tag="20260702-2204" versionName="20260702-2204" versionCode="3419884" nightly="false" apk="solar-20260702-2204.apk" variant="universal"/>
   <release tag="20260702-1521" versionName="20260702-1521" versionCode="3419481" nightly="false" apk="solar-20260702-1521.apk" variant="universal"/>
   <release tag="20260630-1236" versionName="20260630-1236" versionCode="3416436" nightly="false" apk="solar-20260630-1236.apk" variant="universal"/>
   <release tag="20260630-1125" versionName="20260630-1125" versionCode="3416365" nightly="false" apk="solar-20260630-1125.apk" variant="universal"/>
@@ -18,6 +21,7 @@
   <release tag="20260630-0636" versionName="20260630-0636" versionCode="3416076" nightly="false" apk="solar-20260630-0636.apk" variant="universal"/>
   <release tag="20260630-0550" versionName="20260630-0550" versionCode="3416030" nightly="false" apk="solar-20260630-0550.apk" variant="universal"/>
   <release tag="20260629-1615" versionName="20260629-1615" versionCode="3415215" nightly="false" apk="solar-20260629-1615.apk" variant="universal"/>
+  <release tag="nightly-20260707-1233" versionName="nightly-20260707-1233" versionCode="3426513" nightly="true" apk="solar-nightly-20260707-1233.apk" variant="universal"/>
   <release tag="nightly-20260703-1124" versionName="nightly-20260703-1124" versionCode="3420684" nightly="true" apk="solar-nightly-20260703-1124.apk" variant="universal"/>
   <release tag="nightly-20260703-0000" versionName="nightly-20260703-0000" versionCode="3420000" nightly="true" apk="solar-nightly-20260703-0000.apk" variant="universal"/>
   <release tag="nightly-20260702-2341" versionName="nightly-20260702-2341" versionCode="3419981" nightly="true" apk="solar-nightly-20260702-2341.apk" variant="universal"/>
@@ -29,5 +33,4 @@
   <release tag="nightly-20260630-1102" versionName="nightly-20260630-1102" versionCode="3416342" nightly="true" apk="solar-nightly-20260630-1102.apk" variant="universal"/>
   <release tag="nightly-20260630-1035" versionName="nightly-20260630-1035" versionCode="3416315" nightly="true" apk="solar-nightly-20260630-1035.apk" variant="universal"/>
   <release tag="nightly-20260630-1024" versionName="nightly-20260630-1024" versionCode="3416304" nightly="true" apk="solar-nightly-20260630-1024.apk" variant="universal"/>
-  <release tag="nightly-20260630-1005" versionName="nightly-20260630-1005" versionCode="3416285" nightly="true" apk="solar-nightly-20260630-1005.apk" variant="universal"/>
 </solar-updates>
