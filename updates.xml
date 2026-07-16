@@ -6,4 +6,5 @@
   <release tag="v0.3" versionName="0.3" versionCode="0" nightly="false" apk="solar-v0.3.apk"/>
   <release tag="v0.2" versionName="0.2" versionCode="0" nightly="false" apk="solar-v0.2.apk"/>
   <release tag="v0.1" versionName="0.1" versionCode="0" nightly="false" apk="solar-v0.1.apk"/>
+  <release tag="nightly-1" versionName="nightly-1" versionCode="1" nightly="true" apk="solar-nightly-1.apk"/>
 </solar-updates>
