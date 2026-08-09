@@ -6,6 +6,7 @@
   <release tag="v0.3" versionName="0.3" versionCode="0" nightly="false" apk="solar-v0.3.apk" variant="universal"/>
   <release tag="v0.2" versionName="0.2" versionCode="0" nightly="false" apk="solar-v0.2.apk" variant="universal"/>
   <release tag="v0.1" versionName="0.1" versionCode="0" nightly="false" apk="solar-v0.1.apk" variant="universal"/>
+  <release tag="20260809-1816" versionName="20260809-1816" versionCode="3474376" nightly="false" apk="solar-20260809-1816.apk" variant="universal"/>
   <release tag="20260719-1215" versionName="20260719-1215" versionCode="3443775" nightly="false" apk="solar-20260719-1215.apk" variant="universal"/>
   <release tag="20260717-1646" versionName="20260717-1646" versionCode="3441166" nightly="false" apk="solar-20260717-1646.apk" variant="universal"/>
   <release tag="20260716-1122" versionName="20260716-1122" versionCode="3439402" nightly="false" apk="solar-20260716-1122.apk" variant="universal"/>
